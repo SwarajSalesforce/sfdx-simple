@@ -2,7 +2,8 @@ public with sharing class DemoController {
     /**
      * An empty constructor for the testing
      */
-    public DemoController() {}
+    public DemoController() {
+    }
 
     /**
      * Set the contact for the page using the lastName parameter, if there is one
